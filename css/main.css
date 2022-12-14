@@ -2483,6 +2483,7 @@ input, select, textarea {
 			position: relative;
 			z-index: 1001;
 			float: right;
+			right: 50px;
 		}
 
 		#nav li {
